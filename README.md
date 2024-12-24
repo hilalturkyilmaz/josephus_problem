@@ -1,6 +1,6 @@
 # Josephus Problem Solution
 
-This project provides a solution to the Josephus problem using C. The Josephus problem involves n people standing in a circle, with every second person being eliminated until only one survives. This solution includes both a standard C version and a Linux version that utilizes `fork()` to manage child processes for each elimination.
+This assignment provides a solution to the Josephus problem using C. The Josephus problem involves n people standing in a circle, with every second person being eliminated until only one survives. This solution includes both a standard C version and a Linux version that utilizes `fork()` to manage child processes for each elimination.
 
 ## Project Structure
 
