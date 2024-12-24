@@ -13,12 +13,3 @@ This project provides a solution to the Josephus problem using C. The Josephus p
 In this version of the Josephus problem, n people stand in a circle, and every second person is eliminated until only one person remains. The solution employs `fork()` to create a new child process each time a person is eliminated. The parent process waits for the child process to finish before marking the eliminated person and reducing the circle size.
 
 The parent process is responsible for determining the survivor once all eliminations are completed.
-
-## How to Compile and Run
-
-### Linux Version (with fork()):
-
-#### Clone the Repository:
-```bash
-git clone https://github.com/yourusername/josephus-problem.git
-cd josephus-problem
