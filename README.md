@@ -11,7 +11,7 @@ In this version of the Josephus problem, n people stand in a circle, and every s
 The parent process is responsible for determining the survivor once all eliminations are completed.
 
 How to Compile and Run
-
+  
 Linux Version (with fork()):
 Clone the Repository:
 git clone https://github.com/yourusername/josephus-problem.git cd josephus-problem
